@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: aliceblue;
+padding-left: 20px;
+}
+
+header h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: red;
+}
+
+head p {
+    text-indent: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
